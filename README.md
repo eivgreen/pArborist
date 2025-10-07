@@ -37,8 +37,6 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
    ++++++++++++++++++++++++++++++++++++++++++++++++++++++
    ++++++++++++++++++++++++++++++++++++++++++++++++++++++
    ```
-The seed queries are randomly generated.
-
 The **output_expr.txt** stores the results and a brief report in natural language.
 
 The **output_expr_detailed.txt** stored the concrete derived queries in natural language.
