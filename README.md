@@ -1,10 +1,8 @@
 # pArborist
-A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams
-
-All nessesary parts to run pArborist are included in this repository.
+A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams.
 
 ## Datasets
-(1)  The labeled datasets are in the labeled_datasets folder.
+(1)  See the datasets labeled by us in **labeled_datasets** folder.
 
 (2) The public datasets used for pArborist are partially cached in binary files to run pArborist, but not directly accessible here in order to clarify the credits of their original producers. Please find them in their original websites/research [1], [2], [3], [4]. 
 
@@ -15,25 +13,9 @@ All nessesary parts to run pArborist are included in this repository.
 
 (2) A **requirements.py** is attached. All used packages can be loaded via pip, no specific requirements for their versions.
 
-### Mode 1 - for Users of pArborist:
-1. Use the default seeds randomly generated in **input_seeds.txt**. OR Replace the contents in input_seeds with your own seeds. One row each. The format of a seed must be:
-
-   <div align="center">
-    number   event1   event2   event3...
-    </div>
-
-2. Execute **detect_p_r_queries.py**
-3. Check natural language results in **output.txt** and pandas.datafram results in **output_csv.csv** OR directly check the console.
-
-The **output.txt** stores the results in natural language for users.
-
-The **output_csv.csv** stores the results in pandas.DataFrame format for developers.
-
-### Mode 2 - for Experiements:
-Note that the results produced by this repository is significantly better than those illustrated in the paper. 
-
-1. Execute **expr.py** for python. The default mode is **Data Stream Mode**, without printing natural language outputs since there are too many.
-2. Check natural language results in **output_expr.txt** and pandas.datafram results in **output_expr_csv.csv** OR directly check the console.
+### - Mode 1 - for Experiements:
+1. Execute **expr.py** via python. The default mode is **Data Stream Mode**. Run **Database Mode** by executing **expr.py** with **--mode=1**.
+2. Check the results(natural language) in **output_expr.txt** and results(pandas.DataFrame) in **output_expr_csv.csv** OR directly check the console.
 
 The **output_expr.txt** stores the results and a brief report in natural language.
 
@@ -42,6 +24,22 @@ The **output_expr_detailed.txt** stored the concrete derived queries in natural 
 The **output_expr_csv.csv** stores the results in pandas.DataFrame format.
 
 Due to the size limit of github, only the cache of a portion of the datasets are utilized. This produce the same results as a full-scale experiments, since the cache follows the same distribution and schema of the original dataset, see [1], [2], [3], [4].
+
+### - Mode 2 - for Users of pArborist:
+1. Use the default seeds randomly generated in **input_seeds.txt**. OR Replace its contents with your own seeds. One row each. The format of a seed must be:
+
+   <div align="center">
+    number   event1   event2   event3...
+    </div>
+
+2. Run **detect_p_r_queries.py**
+3. Check the results(natural language) in **output.txt** and results(pandas.DataFrame) in **output_csv.csv** OR directly check the console.
+
+The **output.txt** stores the results and a brief report in natural language.
+
+The **output_detailed.txt** stored the concrete derived queries in natural language.
+
+The **output_csv.csv** stores the results in pandas.DataFrame format for developers.
 
 ## Reference
 [1] Albert Kim and Adriana Escobedo-Land. 2015. OkCupid Data for Introductory
