@@ -18,6 +18,7 @@ and Party Name Labels) Dataset (2020). URL https://dx. doi. org/10.21227/25te-j3
 [3] Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudre-Mauroux. 2019. Revis-
 iting user mobility and social relationships in lbsns: a hypergraph embedding
 approach. In The world wide web conference. 2147–2157.
+
 [4] Dingqi Yang, Bingqing Qu, Jie Yang, and Philippe Cudré-Mauroux. 2020.
 Lbsn2vec++: Heterogeneous hypergraph embedding for location-based social
 networks. IEEE Transactions on Knowledge and Data Engineering 34, 4 (2020),
