@@ -1,11 +1,23 @@
 # pArborist
 A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams
 
+## Datasets
+All nessesary parts to run pArborist are included in this repository.
+
+However, only the datasets labeled or produced by us are directly provided here as promised. In order to clarify the credits of the producers of other public datasets, we are not creating their copies here. Please find these datasets in their original websites/research [1], [2], [3], [4].
+
 ## Run pArborist
 (1) The experiments are implemented in Python.
-(2) A requirements.py is attached. All used packages can be loaded via pip, no specific requirements for versions.
 
-### For Experiements:
+(2) A requirements.py is attached. All used packages can be loaded via pip, no specific requirements for their version.
+
+### Mode 1 - for Users of pArborist:
+Replace the contents in expr_seeds with your own seeds. One row each.
+
+The format of a seed is:
+  number event1 event2 event 3...
+  
+### Mode 2 - for Experiements:
 
 1. Execute expr.py for python.
 2. Check resulst in output.txt or directly check the console
@@ -14,18 +26,9 @@ Due to the size limit of github, only the cache of a portion of the datasets are
 
 This produce the same results as a full-scale experiments, since the cache follows the same distribution and schema of the original dataset, see [1], [2], [3], [4].
 
-### For Users of pArborist:
-Replace the contents in expr_seeds with your own seeds. One row each.
-The format of a seed is:
-  number event1 event2 event 3...
 
 
-Put the seeds into expr_seeds.txt, one column each and 
 
-## Datasets
-All nessesary parts to run pArborist are included in this repository.
-
-However, only the datasets labeled or produced by us are directly provided here as promised. In order to clarify the credits of the producers of other public datasets, we are not creating their copies here. Please find these datasets in their original websites/research [1] [2] [3] [4].
 
 ## Reference
 [1] Albert Kim and Adriana Escobedo-Land. 2015. OkCupid Data for Introductory
