@@ -16,6 +16,28 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 ### - Mode 1 - for Experiements:
 1. Execute **expr.py** via python. The default mode is **Data Stream Mode**. Run **Database Mode** by executing **expr.py** with **--mode=1**.
 2. Check the results(natural language) in **output_expr.txt** and results(pandas.DataFrame) in **output_expr_csv.csv** OR directly check the console.
+   
+   For example (**output_expr.txt**):
+   ```
+   +++++++  MODE: DATASTREAM (updated)  ++++++++++++++++++++++++++
+   ++++++++++        New data incoming!!!      ++++++++++
+              New incoming data: 100
+              New derived queries: 32
+              Now number of data: 200
+              Now number of derived queries: 109
+   ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   _______________________________________________________________
+   +++++++  MODE: DATASTREAM (updated)  ++++++++++++++++++++++++++
+   ++++++++++        New data incoming!!!      ++++++++++
+              New incoming data: 100 
+              New derived queries: -2
+              Now number of data: 300
+              Now number of derived queries: 107
+   ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   ```
+The seed queries are randomly generated. They can be changed with **--randomSeed=int**, e.g., **--randomSeed=21512**.
 
 The **output_expr.txt** stores the results and a brief report in natural language.
 
