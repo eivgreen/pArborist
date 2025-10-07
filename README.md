@@ -1,6 +1,19 @@
 # pArborist
 A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams
 
+# Run pArborist
+## For Experiements:
+Execute expr.py. 
+Due to size limit of github, only the cache of a portion of datasets are utilized. They follow the same distribution and schema of the original dataset, see [1], [2], [3], [4]
+
+## For Users of pArborist:
+Replace the contents in expr_seeds with your own seeds. One row each.
+The format of a seed is:
+  number event1 event2 event 3...
+
+
+Put the seeds into expr_seeds.txt, one column each and 
+
 # Datasets
 All nessesary parts to run pArborist are included in this repository.
 
