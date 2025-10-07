@@ -1,15 +1,19 @@
 # pArborist
 A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams
 
-## Datasets
-(1) All nessesary parts to run pArborist are included in this repository. The labeled data are in labeled_data folder.
+All nessesary parts to run pArborist are included in this repository.
 
-(2) However, only the datasets labeled or produced by us are directly provided here as promised. In order to clarify the credits of the producers of other public datasets, we are not creating their copies here. Please find these datasets in their original websites/research [1], [2], [3], [4].
+## Datasets
+(1)  The labeled datasets are in the labeled_datasets folder.
+
+(2) The public datasets used for pArborist are partially cached in binary files to run pArborist, but not directly accessible here in order to clarify the credits of their original producers. Please find them in their original websites/research [1], [2], [3], [4]. 
+
+(3) Only the datasets labeled or produced by us are directly provided here as promised.
 
 ## Run pArborist
-(1) The experiments are implemented in Python.
+(1) pArborist is implemented in Python.
 
-(2) A requirements.py is attached. All used packages can be loaded via pip, no specific requirements for their version.
+(2) A requirements.py is attached. All used packages can be loaded via pip, no specific requirements for their versions.
 
 ### Mode 1 - for Users of pArborist:
 1. Use the default seeds randomly generated in input_seeds.txt. OR Replace the contents in input_seeds with your own seeds. One row each. The format of a seed must be:
@@ -22,23 +26,19 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 3. Check natural language results in output.txt and pandas.datafram results in output_csv.csv OR directly check the console.
 
 The output.txt stores the results in natural language for users.
+
 The output_csv.csv stores the results in pandas.DataFrame format for developers.
 
 ### Mode 2 - for Experiements:
 
 1. Execute expr.py for python.
-2. Check natural language results in output.txt and pandas.datafram results in output_csv.csv OR directly check the console.
+2. Check natural language results in output_expr.txt and pandas.datafram results in output_expr_csv.csv OR directly check the console.
 
 The output_expr.txt stores the results in natural language.
+
 The output_expr_csv.csv stores the results in pandas.DataFrame format.
 
-Due to the size limit of github, only the cache of a portion of the datasets are utilized. 
-
-This produce the same results as a full-scale experiments, since the cache follows the same distribution and schema of the original dataset, see [1], [2], [3], [4].
-
-
-
-
+Due to the size limit of github, only the cache of a portion of the datasets are utilized. This produce the same results as a full-scale experiments, since the cache follows the same distribution and schema of the original dataset, see [1], [2], [3], [4].
 
 ## Reference
 [1] Albert Kim and Adriana Escobedo-Land. 2015. OkCupid Data for Introductory
