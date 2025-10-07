@@ -2,10 +2,13 @@
 A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams
 
 ## Run pArborist
+(1) The experiments are implemented in Python.
+(2) A requirements.py is attached. All used packages can be loaded via pip, no specific requirements for versions.
 
 ### For Experiements:
 
-1. Execute expr.py. 
+1. Execute expr.py for python.
+2. Check resulst in output.txt or directly check the console
 
 Due to the size limit of github, only the cache of a portion of the datasets are utilized. 
 
