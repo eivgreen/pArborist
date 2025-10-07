@@ -12,11 +12,14 @@ However, only the datasets labeled or produced by us are directly provided here 
 (2) A requirements.py is attached. All used packages can be loaded via pip, no specific requirements for their version.
 
 ### Mode 1 - for Users of pArborist:
-Replace the contents in expr_seeds with your own seeds. One row each.
+1. Use the default seeds randomly generated in input_seeds.txt. OR Replace the contents in input_seeds with your own seeds. One row each. The format of a seed must be:
 
-The format of a seed is:
-  number event1 event2 event 3...
-  
+   <div align="center">
+    number   event1   event2   event 3...
+    </div>
+
+2. Execute detect_p_r_queries.py
+
 ### Mode 2 - for Experiements:
 
 1. Execute expr.py for python.
