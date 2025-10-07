@@ -37,7 +37,7 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
    ++++++++++++++++++++++++++++++++++++++++++++++++++++++
    ++++++++++++++++++++++++++++++++++++++++++++++++++++++
    ```
-The seed queries are randomly generated. They can be changed with **--randomSeed=int**, e.g., **--randomSeed=21512**.
+The seed queries are randomly generated.
 
 The **output_expr.txt** stores the results and a brief report in natural language.
 
