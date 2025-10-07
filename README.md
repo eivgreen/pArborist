@@ -2,7 +2,7 @@
 A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams.
 
 ## Datasets
-(1)  See the datasets labeled by us in **labeled_datasets** folder.
+(1)  See the datasets labeled by us in **labeled_datasets** folder. 
 
 (2) The public datasets used for pArborist are partially cached in binary files to run pArborist, but not directly accessible here in order to clarify the credits of their original producers. Please find them in their original websites/research [1], [2], [3], [4]. 
 
@@ -45,7 +45,7 @@ The **output_expr_detailed.txt** stored the concrete derived queries in natural 
 
 The **output_expr_csv.csv** stores the results in pandas.DataFrame format.
 
-Due to the size limit of github, only the cache of a portion of the datasets are utilized. This produce the same results as a full-scale experiments, since the cache follows the same distribution and schema of the original dataset, see [1], [2], [3], [4].
+Our cache data follows the same distribution and schema of the original dataset, see [1], [2], [3], [4].
 
 ### - Mode 2 - for Users of pArborist:
 1. Use the default seeds randomly generated in **input_seeds.txt**. OR Replace its contents with your own seeds. One row each. The format of a seed must be:
