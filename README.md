@@ -2,7 +2,7 @@
 A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams
 
 # Datasets
-All nessesary parts to run pArborist are all included in this repository.
+All nessesary parts to run pArborist are included in this repository.
 
 However, only the datasets labeled or produced by us are directly provided here as promised. In order to clarify the credits of the producers of other public datasets, we are not creating their copies here. Please find these datasets in their original websites/research [1] [2] [3] [4].
 
