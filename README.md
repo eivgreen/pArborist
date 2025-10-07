@@ -9,7 +9,7 @@ Execute expr.py.
 
 Due to the size limit of github, only the cache of a portion of the datasets are utilized. 
 
-They follow the same distribution and schema of the original dataset, see [1], [2], [3], [4].
+This produce the same results as a full-scale experiments, since the cache follows the same distribution and schema of the original dataset, see [1], [2], [3], [4].
 
 ### For Users of pArborist:
 Replace the contents in expr_seeds with your own seeds. One row each.
