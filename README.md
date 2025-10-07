@@ -5,7 +5,7 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 
 ### For Experiements:
 
-Execute expr.py. 
+1. Execute expr.py. 
 
 Due to the size limit of github, only the cache of a portion of the datasets are utilized. 
 
