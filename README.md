@@ -4,8 +4,12 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 ## Run pArborist
 
 ### For Experiements:
+
 Execute expr.py. 
-Due to size limit of github, only the cache of a portion of datasets are utilized. They follow the same distribution and schema of the original dataset, see [1], [2], [3], [4]
+
+Due to the size limit of github, only the cache of a portion of the datasets are utilized. 
+
+They follow the same distribution and schema of the original dataset, see [1], [2], [3], [4].
 
 ### For Users of pArborist:
 Replace the contents in expr_seeds with your own seeds. One row each.
