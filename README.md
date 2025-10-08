@@ -6,7 +6,7 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 
 (2) Only the datasets labeled or produced by us are directly provided here as promised. The public datasets used for pArborist are partially cached in binary files to run pArborist, but not directly accessible here in order to clarify the credits of their original producers. Please find them in their original websites/research [1], [2], [3], [4]. 
 
-(3) **outputs_back_up** contains the stored outputs for a quick review and providea a quick overview of the outputs.
+(3) **outputs_back_up** contains the stored outputs for a quick review and providea a quick overview of the outputs. **outputs_expr(...).txt** and **outputs_expr(...).csv** are the outputs of experiments. **outputs(...).txt** and **outputs(...).csv** are the outputs of users' manual inputs.
 
 ## Run pArborist
 (1) pArborist is implemented in Python.
