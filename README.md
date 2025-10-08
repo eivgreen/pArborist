@@ -15,35 +15,42 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 
 ### Mode 1: for Experiements:
 1. Execute **expr.py** via python. The default mode is **Data Stream Mode**. Run **Database Mode** by executing **expr.py** with **--mode=1**.
-2. Check the results(natural language) in **output_expr.txt** and results(pandas.DataFrame) in **output_expr_csv.csv** OR directly check the console.
+2. Check the results(natural language) in **output_expr.txt** and results(pandas.DataFrame) in **output_expr_csv.csv** OR directly check the console. Examples can be seen in **outputs_back_up** folder.
    
-   For example (**output_expr.txt**):
+   For example (parts of **outputs_back_up/output_expr (DATA STREAM).txt**):
    ```
-   +++++++  MODE: DATASTREAM (updated)  ++++++++++++++++++++++++++
-   ++++++++++        New data incoming!!!      ++++++++++
-              New incoming data: 100
-              New derived queries: 32
-              Now number of data: 200
-              Now number of derived queries: 109
-   ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-   ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-   _______________________________________________________________
-   +++++++  MODE: DATASTREAM (updated)  ++++++++++++++++++++++++++
-   ++++++++++        New data incoming!!!      ++++++++++
-              New incoming data: 100 
-              New derived queries: -2
-              Now number of data: 300
-              Now number of derived queries: 107
-   ++++++++++++++++++++++++++++++++++++++++++++++++++++++
-   ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   ... ... ...
+   ______________________________________________________
+   ++++++++++++  MODE: DATA STREAM ++++++++++++
+   ++++++       New data incoming!!!      ++++++
+                New incoming data: 100
+                New derived queries: 0
+                Now number of data: 800
+                Now number of derived queries: 217
+   Recall: 0.638 Precision: 0.9908
+   ______________________________________________________
+   ______________________________________________________
+   ______________________________________________________
+   +++++++ MODE: DATA STREAM (updated) +++++++
+   ++++++       New data incoming!!!      ++++++
+                New incoming data: 100
+                New derived queries: 78
+                Now number of data: 900
+                Now number of derived queries: 295
+   Recall: 0.8754 Precision: 1.0
+   ______________________________________________________
+   ______________________________________________________
+   ... ... ...
    ```
+3. (Optional) Compare the results with the labeled data in **labeled_datasets** folder.
+
+**FYI**:
+   
 The **output_expr.txt** stores the results and a brief report in natural language.
 
 The **output_expr_detailed.txt** stored the concrete derived queries in natural language.
 
 The **output_expr_csv.csv** stores the results in pandas.DataFrame format.
-
-Our cache data follows the same distribution and schema of the original dataset, see [1], [2], [3], [4].
 
 ### Mode 2: for Users of pArborist:
 1. Use the default seeds randomly generated in **input_seeds.txt**. OR Replace its contents with your own seeds. One row each. The format of a seed must be:
@@ -54,6 +61,8 @@ Our cache data follows the same distribution and schema of the original dataset,
 
 2. Run **detect_p_r_queries.py**
 3. Check the results(natural language) in **output.txt** and results(pandas.DataFrame) in **output_csv.csv** OR directly check the console.
+
+**FYI**:
 
 The **output.txt** stores the results and a brief report in natural language.
 
