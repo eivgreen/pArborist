@@ -11,11 +11,11 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 ## Run pArborist
 (1) pArborist is implemented in Python.
 
-(2) A **requirements.py** is attached. All used packages can be loaded via pip, no specific requirements for their versions.
+(2) A **requirements.py** is attached. All used packages can be loaded via **pip**. No specific requirements for their versions.
 
 ### Mode 1: for Experiements:
 1. Execute **expr.py** via python. The default mode is **Data Stream Mode**. Run **Database Mode** by executing **expr.py** with **--mode=1**.
-2. Check the results(natural language) in **current_output/output_expr.txt** and results(pandas.DataFrame) in **current_output/output_expr_csv.csv** OR directly check the console. Examples can be seen in **outputs_back_up** folder.
+2. Check the results(natural language) in **current_output/output_expr.txt** and results(pandas.DataFrame) in **current_output/output_expr_csv.csv** OR directly check the console. A detailed report can be seen in **current_output/output_expr_detailed.txt**. Examples can be seen in **outputs_back_up** folder.
    
    For example (parts of **outputs_back_up/output_expr (DATA STREAM).txt**):
    ```
@@ -60,7 +60,7 @@ The **current_output/output_expr_csv.csv** stores the results in pandas.DataFram
     </div>
 
 2. Run **detect_p_r_queries.py**
-3. Check the results(natural language) in **current_output/output.txt** and results(pandas.DataFrame) in **current_output/output_csv.csv** OR directly check the console.
+3. Check the results(natural language) in **current_output/output.txt** and results(pandas.DataFrame) in **current_output/output_csv.csv**. OR directly check the console. A detailed report can be seen in **current_output/output_detailed.txt**.
 
 **FYI**:
 
