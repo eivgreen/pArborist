@@ -15,7 +15,7 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 
 ### Mode 1: for Experiements:
 1. Execute **expr.py** via python. The default mode is **Data Stream Mode**. Run **Database Mode** by executing **expr.py** with **--mode=1**.
-2. Check the results(natural language) in **output_expr.txt** and results(pandas.DataFrame) in **output_expr_csv.csv** OR directly check the console. Examples can be seen in **outputs_back_up** folder.
+2. Check the results(natural language) in **current_output/output_expr.txt** and results(pandas.DataFrame) in **current_output/output_expr_csv.csv** OR directly check the console. Examples can be seen in **outputs_back_up** folder.
    
    For example (parts of **outputs_back_up/output_expr (DATA STREAM).txt**):
    ```
@@ -46,11 +46,11 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 
 **FYI**:
    
-The **output_expr.txt** stores the results and a brief report in natural language.
+The **current_output/output_expr.txt** stores the results and a brief report in natural language.
 
-The **output_expr_detailed.txt** stored the concrete derived queries in natural language.
+The **current_output/output_expr_detailed.txt** stored the concrete derived queries in natural language.
 
-The **output_expr_csv.csv** stores the results in pandas.DataFrame format.
+The **current_output/output_expr_csv.csv** stores the results in pandas.DataFrame format.
 
 ### Mode 2: for Users of pArborist:
 1. Use the default seeds randomly generated in **input_seeds.txt**. OR Replace its contents with your own seeds. One row each. The format of a seed must be:
@@ -60,15 +60,15 @@ The **output_expr_csv.csv** stores the results in pandas.DataFrame format.
     </div>
 
 2. Run **detect_p_r_queries.py**
-3. Check the results(natural language) in **output.txt** and results(pandas.DataFrame) in **output_csv.csv** OR directly check the console.
+3. Check the results(natural language) in **current_output/output.txt** and results(pandas.DataFrame) in **current_output/output_csv.csv** OR directly check the console.
 
 **FYI**:
 
-The **output.txt** stores the results and a brief report in natural language.
+The **current_output/output.txt** stores the results and a brief report in natural language.
 
-The **output_detailed.txt** stored the concrete derived queries in natural language.
+The **current_output/output_detailed.txt** stored the concrete derived queries in natural language.
 
-The **output_csv.csv** stores the results in pandas.DataFrame format for developers.
+The **current_output/output_csv.csv** stores the results in pandas.DataFrame format for developers.
 
 ## Reference
 [1] Albert Kim and Adriana Escobedo-Land. 2015. OkCupid Data for Introductory
