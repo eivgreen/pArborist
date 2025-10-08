@@ -1,0 +1,1035 @@
+______________________________________________________
+______________________________________________________
+++++++   MODE: DATABASE with 1 seeds.  ++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 1000
+             New derived queries: 59
+             Now number of data: 1000
+             Now number of derived queries: 59
+______________________________________________________
+______________________________________________________
+___________________________________________
+Privacy Requirements 1 the individual claims that the activities under the name 375527, and in Hotel: 49f754c1f964a520896c1fe3 are privacy-revealing
+___________________________________________
+___________________________________________
+(1) with 100.0% probability, activities under the name 375527 are also privacy-revealing.
+___________________________________________
+(2) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(3) with 100.0% probability, activities under the name 375527, and around Latitude: 40.732664 are also privacy-revealing.
+___________________________________________
+(4) with 100.0% probability, activities under the name 375527, and around Longitude: -74.171263 are also privacy-revealing.
+___________________________________________
+(5) with 100.0% probability, activities under the name 375527, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(6) with 100.0% probability, activities under the name 375527, and in country: US are also privacy-revealing.
+___________________________________________
+(7) with 66.62216288384508% probability, activities under the name 375527, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(8) with 66.62216288384508% probability, activities under the name 375527, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(9) with 66.62216288384508% probability, activities around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(10) with 66.62216288384508% probability, activities around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(11) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(12) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(13) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(14) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(15) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and around Longitude: -74.171263 are also privacy-revealing.
+___________________________________________
+(16) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(17) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and in country: US are also privacy-revealing.
+___________________________________________
+(18) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(19) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(20) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(21) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, and in country: US are also privacy-revealing.
+___________________________________________
+(22) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(23) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(24) with 100.0% probability, activities under the name 375527, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(25) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(26) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(27) with 66.62216288384508% probability, activities under the name 375527, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(28) with 66.62216288384508% probability, activities under the name 375527, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(29) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(30) with 66.62216288384508% probability, activities around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(31) with 66.62216288384508% probability, activities around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(32) with 66.62216288384508% probability, activities around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(33) with 66.62216288384508% probability, activities around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(34) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(35) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(36) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(37) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(38) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(39) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(40) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(41) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and in country: US are also privacy-revealing.
+___________________________________________
+(42) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(43) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(44) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(45) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(46) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(47) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(48) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(49) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(50) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(51) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(52) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(53) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(54) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(55) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(56) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(57) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(58) with 66.62216288384508% probability, activities around Latitude: 40.732664, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(59) with 66.62216288384508% probability, activities around Longitude: -74.171263, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+______________________________________________________
+++++++   MODE: DATABASE with 2 seeds.  ++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 1000
+             New derived queries: 108
+             Now number of data: 1000
+             Now number of derived queries: 108
+______________________________________________________
+______________________________________________________
+___________________________________________
+Privacy Requirements 1 the individual claims that the activities under the name 375527, and in Hotel: 49f754c1f964a520896c1fe3 are privacy-revealing
+___________________________________________
+___________________________________________
+Privacy Requirements 2 the individual claims that the activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.990903, and around Latitude: 40.734782 are privacy-revealing
+___________________________________________
+___________________________________________
+(1) with 100.0% probability, activities under the name 375527 are also privacy-revealing.
+___________________________________________
+(2) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(3) with 100.0% probability, activities under the name 375527, and around Latitude: 40.732664 are also privacy-revealing.
+___________________________________________
+(4) with 100.0% probability, activities under the name 375527, and around Longitude: -74.171263 are also privacy-revealing.
+___________________________________________
+(5) with 100.0% probability, activities under the name 375527, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(6) with 100.0% probability, activities under the name 375527, and in country: US are also privacy-revealing.
+___________________________________________
+(7) with 66.62216288384508% probability, activities under the name 375527, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(8) with 66.62216288384508% probability, activities under the name 375527, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(9) with 66.62216288384508% probability, activities around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(10) with 66.62216288384508% probability, activities around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(11) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(12) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(13) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(14) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(15) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and around Longitude: -74.171263 are also privacy-revealing.
+___________________________________________
+(16) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(17) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and in country: US are also privacy-revealing.
+___________________________________________
+(18) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(19) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(20) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(21) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, and in country: US are also privacy-revealing.
+___________________________________________
+(22) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(23) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(24) with 100.0% probability, activities under the name 375527, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(25) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(26) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(27) with 66.62216288384508% probability, activities under the name 375527, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(28) with 66.62216288384508% probability, activities under the name 375527, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(29) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(30) with 66.62216288384508% probability, activities around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(31) with 66.62216288384508% probability, activities around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(32) with 66.62216288384508% probability, activities around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(33) with 66.62216288384508% probability, activities around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(34) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(35) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(36) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(37) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(38) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(39) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(40) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(41) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and in country: US are also privacy-revealing.
+___________________________________________
+(42) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(43) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(44) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(45) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(46) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(47) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(48) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(49) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(50) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(51) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(52) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(53) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(54) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(55) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(56) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(57) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(58) with 66.62216288384508% probability, activities around Latitude: 40.732664, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(59) with 66.62216288384508% probability, activities around Longitude: -74.171263, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(60) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3 are also privacy-revealing.
+___________________________________________
+(61) with 100.0% probability, activities around Latitude: 40.734664 are also privacy-revealing.
+___________________________________________
+(62) with 72.58771929824547% probability, activities around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(63) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and around Latitude: 40.734664 are also privacy-revealing.
+___________________________________________
+(64) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(65) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and in brand: Park are also privacy-revealing.
+___________________________________________
+(66) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and in country: US are also privacy-revealing.
+___________________________________________
+(67) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(68) with 100.0% probability, activities around Latitude: 40.734664, and around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(69) with 100.0% probability, activities around Latitude: 40.734664, and in brand: Park are also privacy-revealing.
+___________________________________________
+(70) with 100.0% probability, activities around Latitude: 40.734664, and in country: US are also privacy-revealing.
+___________________________________________
+(71) with 85.66513761467886% probability, activities around Latitude: 40.734664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(72) with 100.0% probability, activities around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(73) with 72.58771929824547% probability, activities around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(74) with 85.66513761467886% probability, activities around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(75) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(76) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and in brand: Park are also privacy-revealing.
+___________________________________________
+(77) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and in country: US are also privacy-revealing.
+___________________________________________
+(78) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(79) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(80) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(81) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(82) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(83) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(84) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(85) with 100.0% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(86) with 100.0% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(87) with 85.66513761467886% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(88) with 100.0% probability, activities around Latitude: 40.734664, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(89) with 85.66513761467886% probability, activities around Latitude: 40.734664, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(90) with 85.66513761467886% probability, activities around Latitude: 40.734664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(91) with 100.0% probability, activities around Longitude: -73.991263, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(92) with 85.66513761467886% probability, activities around Longitude: -73.991263, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(93) with 85.66513761467886% probability, activities around Longitude: -73.991263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(94) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(95) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(96) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(97) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(98) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(99) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(100) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(101) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(102) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(103) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, in brand: Park, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(104) with 100.0% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(105) with 85.66513761467886% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(106) with 85.66513761467886% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(107) with 85.66513761467886% probability, activities around Latitude: 40.734664, in brand: Park, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(108) with 85.66513761467886% probability, activities around Longitude: -73.991263, in brand: Park, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+______________________________________________________
+++++++   MODE: DATABASE with 3 seeds.  ++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 1000
+             New derived queries: 134
+             Now number of data: 1000
+             Now number of derived queries: 134
+______________________________________________________
+______________________________________________________
+___________________________________________
+Privacy Requirements 1 the individual claims that the activities under the name 375527, and in Hotel: 49f754c1f964a520896c1fe3 are privacy-revealing
+___________________________________________
+___________________________________________
+Privacy Requirements 2 the individual claims that the activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.990903, and around Latitude: 40.734782 are privacy-revealing
+___________________________________________
+___________________________________________
+Privacy Requirements 3 the individual claims that the activities under the name 116894, and in brand: Train Station are privacy-revealing
+___________________________________________
+___________________________________________
+(1) with 100.0% probability, activities under the name 375527 are also privacy-revealing.
+___________________________________________
+(2) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(3) with 100.0% probability, activities under the name 375527, and around Latitude: 40.732664 are also privacy-revealing.
+___________________________________________
+(4) with 100.0% probability, activities under the name 375527, and around Longitude: -74.171263 are also privacy-revealing.
+___________________________________________
+(5) with 100.0% probability, activities under the name 375527, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(6) with 100.0% probability, activities under the name 375527, and in country: US are also privacy-revealing.
+___________________________________________
+(7) with 66.62216288384508% probability, activities under the name 375527, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(8) with 66.62216288384508% probability, activities under the name 375527, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(9) with 66.62216288384508% probability, activities around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(10) with 66.62216288384508% probability, activities around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(11) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(12) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(13) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(14) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(15) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and around Longitude: -74.171263 are also privacy-revealing.
+___________________________________________
+(16) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(17) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and in country: US are also privacy-revealing.
+___________________________________________
+(18) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(19) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(20) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(21) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, and in country: US are also privacy-revealing.
+___________________________________________
+(22) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(23) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(24) with 100.0% probability, activities under the name 375527, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(25) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(26) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(27) with 66.62216288384508% probability, activities under the name 375527, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(28) with 66.62216288384508% probability, activities under the name 375527, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(29) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(30) with 66.62216288384508% probability, activities around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(31) with 66.62216288384508% probability, activities around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(32) with 66.62216288384508% probability, activities around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(33) with 66.62216288384508% probability, activities around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(34) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(35) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(36) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(37) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(38) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(39) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(40) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(41) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and in country: US are also privacy-revealing.
+___________________________________________
+(42) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(43) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(44) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(45) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(46) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(47) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(48) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(49) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(50) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(51) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(52) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(53) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(54) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(55) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(56) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(57) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(58) with 66.62216288384508% probability, activities around Latitude: 40.732664, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(59) with 66.62216288384508% probability, activities around Longitude: -74.171263, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(60) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3 are also privacy-revealing.
+___________________________________________
+(61) with 100.0% probability, activities around Latitude: 40.734664 are also privacy-revealing.
+___________________________________________
+(62) with 72.58771929824547% probability, activities around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(63) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and around Latitude: 40.734664 are also privacy-revealing.
+___________________________________________
+(64) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(65) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and in brand: Park are also privacy-revealing.
+___________________________________________
+(66) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and in country: US are also privacy-revealing.
+___________________________________________
+(67) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(68) with 100.0% probability, activities around Latitude: 40.734664, and around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(69) with 100.0% probability, activities around Latitude: 40.734664, and in brand: Park are also privacy-revealing.
+___________________________________________
+(70) with 100.0% probability, activities around Latitude: 40.734664, and in country: US are also privacy-revealing.
+___________________________________________
+(71) with 85.66513761467886% probability, activities around Latitude: 40.734664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(72) with 100.0% probability, activities around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(73) with 72.58771929824547% probability, activities around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(74) with 85.66513761467886% probability, activities around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(75) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(76) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and in brand: Park are also privacy-revealing.
+___________________________________________
+(77) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and in country: US are also privacy-revealing.
+___________________________________________
+(78) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(79) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(80) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(81) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(82) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(83) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(84) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(85) with 100.0% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(86) with 100.0% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(87) with 85.66513761467886% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(88) with 100.0% probability, activities around Latitude: 40.734664, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(89) with 85.66513761467886% probability, activities around Latitude: 40.734664, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(90) with 85.66513761467886% probability, activities around Latitude: 40.734664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(91) with 100.0% probability, activities around Longitude: -73.991263, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(92) with 85.66513761467886% probability, activities around Longitude: -73.991263, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(93) with 85.66513761467886% probability, activities around Longitude: -73.991263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(94) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(95) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(96) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(97) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(98) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(99) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(100) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(101) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(102) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(103) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, in brand: Park, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(104) with 100.0% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(105) with 85.66513761467886% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(106) with 85.66513761467886% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(107) with 85.66513761467886% probability, activities around Latitude: 40.734664, in brand: Park, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(108) with 85.66513761467886% probability, activities around Longitude: -73.991263, in brand: Park, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(109) with 100.0% probability, activities under the name 116894 are also privacy-revealing.
+___________________________________________
+(110) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, and under the name 116894 are also privacy-revealing.
+___________________________________________
+(111) with 100.0% probability, activities under the name 116894, and around Latitude: 34.055664 are also privacy-revealing.
+___________________________________________
+(112) with 100.0% probability, activities under the name 116894, and around Longitude: -118.236263 are also privacy-revealing.
+___________________________________________
+(113) with 100.0% probability, activities under the name 116894, and in country: US are also privacy-revealing.
+___________________________________________
+(114) with 100.0% probability, activities under the name 116894, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(115) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, and around Latitude: 34.055664 are also privacy-revealing.
+___________________________________________
+(116) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, and around Longitude: -118.236263 are also privacy-revealing.
+___________________________________________
+(117) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, and in country: US are also privacy-revealing.
+___________________________________________
+(118) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(119) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, and around Longitude: -118.236263 are also privacy-revealing.
+___________________________________________
+(120) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, and in country: US are also privacy-revealing.
+___________________________________________
+(121) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(122) with 100.0% probability, activities under the name 116894, around Longitude: -118.236263, and in country: US are also privacy-revealing.
+___________________________________________
+(123) with 100.0% probability, activities under the name 116894, around Longitude: -118.236263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(124) with 100.0% probability, activities under the name 116894, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(125) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Latitude: 34.055664, and around Longitude: -118.236263 are also privacy-revealing.
+___________________________________________
+(126) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Latitude: 34.055664, and in country: US are also privacy-revealing.
+___________________________________________
+(127) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Latitude: 34.055664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(128) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Longitude: -118.236263, and in country: US are also privacy-revealing.
+___________________________________________
+(129) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Longitude: -118.236263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(130) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(131) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, around Longitude: -118.236263, and in country: US are also privacy-revealing.
+___________________________________________
+(132) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, around Longitude: -118.236263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(133) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(134) with 100.0% probability, activities under the name 116894, around Longitude: -118.236263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+______________________________________________________
+++++++   MODE: DATABASE with 4 seeds.  ++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 1000
+             New derived queries: 183
+             Now number of data: 1000
+             Now number of derived queries: 183
+______________________________________________________
+______________________________________________________
+___________________________________________
+Privacy Requirements 1 the individual claims that the activities under the name 375527, and in Hotel: 49f754c1f964a520896c1fe3 are privacy-revealing
+___________________________________________
+___________________________________________
+Privacy Requirements 2 the individual claims that the activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.990903, and around Latitude: 40.734782 are privacy-revealing
+___________________________________________
+___________________________________________
+Privacy Requirements 3 the individual claims that the activities under the name 116894, and in brand: Train Station are privacy-revealing
+___________________________________________
+___________________________________________
+Privacy Requirements 4 the individual claims that the activities in Hotel: 4ace6c89f964a52078d020e3, and around Longitude: -73.87172 are privacy-revealing
+___________________________________________
+___________________________________________
+(1) with 100.0% probability, activities under the name 375527 are also privacy-revealing.
+___________________________________________
+(2) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(3) with 100.0% probability, activities under the name 375527, and around Latitude: 40.732664 are also privacy-revealing.
+___________________________________________
+(4) with 100.0% probability, activities under the name 375527, and around Longitude: -74.171263 are also privacy-revealing.
+___________________________________________
+(5) with 100.0% probability, activities under the name 375527, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(6) with 100.0% probability, activities under the name 375527, and in country: US are also privacy-revealing.
+___________________________________________
+(7) with 66.62216288384508% probability, activities under the name 375527, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(8) with 66.62216288384508% probability, activities under the name 375527, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(9) with 66.62216288384508% probability, activities around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(10) with 66.62216288384508% probability, activities around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(11) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(12) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(13) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(14) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(15) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and around Longitude: -74.171263 are also privacy-revealing.
+___________________________________________
+(16) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(17) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, and in country: US are also privacy-revealing.
+___________________________________________
+(18) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(19) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(20) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(21) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, and in country: US are also privacy-revealing.
+___________________________________________
+(22) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(23) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(24) with 100.0% probability, activities under the name 375527, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(25) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(26) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(27) with 66.62216288384508% probability, activities under the name 375527, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(28) with 66.62216288384508% probability, activities under the name 375527, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(29) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(30) with 66.62216288384508% probability, activities around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(31) with 66.62216288384508% probability, activities around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(32) with 66.62216288384508% probability, activities around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(33) with 66.62216288384508% probability, activities around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(34) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(35) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(36) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(37) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(38) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(39) with 66.62216288384508% probability, activities in Hotel: 49f754c1f964a520896c1fe3, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(40) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and in brand: Stadium are also privacy-revealing.
+___________________________________________
+(41) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and in country: US are also privacy-revealing.
+___________________________________________
+(42) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(43) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, around Longitude: -74.171263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(44) with 100.0% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(45) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(46) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(47) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(48) with 66.62216288384508% probability, activities under the name 375527, around Latitude: 40.732664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(49) with 100.0% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and in country: US are also privacy-revealing.
+___________________________________________
+(50) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(51) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(52) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(53) with 66.62216288384508% probability, activities under the name 375527, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(54) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(55) with 66.62216288384508% probability, activities under the name 375527, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(56) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, in brand: Stadium, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(57) with 66.62216288384508% probability, activities around Latitude: 40.732664, around Longitude: -74.171263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(58) with 66.62216288384508% probability, activities around Latitude: 40.732664, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(59) with 66.62216288384508% probability, activities around Longitude: -74.171263, in brand: Stadium, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(60) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3 are also privacy-revealing.
+___________________________________________
+(61) with 100.0% probability, activities around Latitude: 40.734664 are also privacy-revealing.
+___________________________________________
+(62) with 72.58771929824547% probability, activities around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(63) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and around Latitude: 40.734664 are also privacy-revealing.
+___________________________________________
+(64) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(65) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and in brand: Park are also privacy-revealing.
+___________________________________________
+(66) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, and in country: US are also privacy-revealing.
+___________________________________________
+(67) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(68) with 100.0% probability, activities around Latitude: 40.734664, and around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(69) with 100.0% probability, activities around Latitude: 40.734664, and in brand: Park are also privacy-revealing.
+___________________________________________
+(70) with 100.0% probability, activities around Latitude: 40.734664, and in country: US are also privacy-revealing.
+___________________________________________
+(71) with 85.66513761467886% probability, activities around Latitude: 40.734664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(72) with 100.0% probability, activities around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(73) with 72.58771929824547% probability, activities around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(74) with 85.66513761467886% probability, activities around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(75) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and around Longitude: -73.991263 are also privacy-revealing.
+___________________________________________
+(76) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and in brand: Park are also privacy-revealing.
+___________________________________________
+(77) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and in country: US are also privacy-revealing.
+___________________________________________
+(78) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(79) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(80) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(81) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(82) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(83) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(84) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(85) with 100.0% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(86) with 100.0% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(87) with 85.66513761467886% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(88) with 100.0% probability, activities around Latitude: 40.734664, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(89) with 85.66513761467886% probability, activities around Latitude: 40.734664, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(90) with 85.66513761467886% probability, activities around Latitude: 40.734664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(91) with 100.0% probability, activities around Longitude: -73.991263, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(92) with 85.66513761467886% probability, activities around Longitude: -73.991263, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(93) with 85.66513761467886% probability, activities around Longitude: -73.991263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(94) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, around Longitude: -73.991263, and in brand: Park are also privacy-revealing.
+___________________________________________
+(95) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, around Longitude: -73.991263, and in country: US are also privacy-revealing.
+___________________________________________
+(96) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, around Longitude: -73.991263, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(97) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(98) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(99) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Latitude: 40.734664, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(100) with 100.0% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(101) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(102) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, around Longitude: -73.991263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(103) with 85.66513761467886% probability, activities in Hotel: 3fd66200f964a520def11ee3, in brand: Park, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(104) with 100.0% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, in brand: Park, and in country: US are also privacy-revealing.
+___________________________________________
+(105) with 85.66513761467886% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, in brand: Park, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(106) with 85.66513761467886% probability, activities around Latitude: 40.734664, around Longitude: -73.991263, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(107) with 85.66513761467886% probability, activities around Latitude: 40.734664, in brand: Park, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(108) with 85.66513761467886% probability, activities around Longitude: -73.991263, in brand: Park, in country: US, and within time: (20120403, 20120404) are also privacy-revealing.
+___________________________________________
+(109) with 100.0% probability, activities under the name 116894 are also privacy-revealing.
+___________________________________________
+(110) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, and under the name 116894 are also privacy-revealing.
+___________________________________________
+(111) with 100.0% probability, activities under the name 116894, and around Latitude: 34.055664 are also privacy-revealing.
+___________________________________________
+(112) with 100.0% probability, activities under the name 116894, and around Longitude: -118.236263 are also privacy-revealing.
+___________________________________________
+(113) with 100.0% probability, activities under the name 116894, and in country: US are also privacy-revealing.
+___________________________________________
+(114) with 100.0% probability, activities under the name 116894, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(115) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, and around Latitude: 34.055664 are also privacy-revealing.
+___________________________________________
+(116) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, and around Longitude: -118.236263 are also privacy-revealing.
+___________________________________________
+(117) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, and in country: US are also privacy-revealing.
+___________________________________________
+(118) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(119) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, and around Longitude: -118.236263 are also privacy-revealing.
+___________________________________________
+(120) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, and in country: US are also privacy-revealing.
+___________________________________________
+(121) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(122) with 100.0% probability, activities under the name 116894, around Longitude: -118.236263, and in country: US are also privacy-revealing.
+___________________________________________
+(123) with 100.0% probability, activities under the name 116894, around Longitude: -118.236263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(124) with 100.0% probability, activities under the name 116894, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(125) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Latitude: 34.055664, and around Longitude: -118.236263 are also privacy-revealing.
+___________________________________________
+(126) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Latitude: 34.055664, and in country: US are also privacy-revealing.
+___________________________________________
+(127) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Latitude: 34.055664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(128) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Longitude: -118.236263, and in country: US are also privacy-revealing.
+___________________________________________
+(129) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, around Longitude: -118.236263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(130) with 100.0% probability, activities in Hotel: 45b88de0f964a520ce411fe3, under the name 116894, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(131) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, around Longitude: -118.236263, and in country: US are also privacy-revealing.
+___________________________________________
+(132) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, around Longitude: -118.236263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(133) with 100.0% probability, activities under the name 116894, around Latitude: 34.055664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(134) with 100.0% probability, activities under the name 116894, around Longitude: -118.236263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(135) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3 are also privacy-revealing.
+___________________________________________
+(136) with 100.0% probability, activities around Latitude: 40.773664 are also privacy-revealing.
+___________________________________________
+(137) with 100.0% probability, activities around Longitude: -73.871263 are also privacy-revealing.
+___________________________________________
+(138) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, and around Latitude: 40.773664 are also privacy-revealing.
+___________________________________________
+(139) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, and around Longitude: -73.871263 are also privacy-revealing.
+___________________________________________
+(140) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, and in brand: Airport are also privacy-revealing.
+___________________________________________
+(141) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, and in country: US are also privacy-revealing.
+___________________________________________
+(142) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(143) with 100.0% probability, activities around Latitude: 40.773664, and around Longitude: -73.871263 are also privacy-revealing.
+___________________________________________
+(144) with 100.0% probability, activities around Latitude: 40.773664, and in brand: Airport are also privacy-revealing.
+___________________________________________
+(145) with 100.0% probability, activities around Latitude: 40.773664, and in country: US are also privacy-revealing.
+___________________________________________
+(146) with 100.0% probability, activities around Latitude: 40.773664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(147) with 100.0% probability, activities around Longitude: -73.871263, and in brand: Airport are also privacy-revealing.
+___________________________________________
+(148) with 100.0% probability, activities around Longitude: -73.871263, and in country: US are also privacy-revealing.
+___________________________________________
+(149) with 100.0% probability, activities around Longitude: -73.871263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(150) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, and around Longitude: -73.871263 are also privacy-revealing.
+___________________________________________
+(151) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, and in brand: Airport are also privacy-revealing.
+___________________________________________
+(152) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, and in country: US are also privacy-revealing.
+___________________________________________
+(153) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(154) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Longitude: -73.871263, and in brand: Airport are also privacy-revealing.
+___________________________________________
+(155) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Longitude: -73.871263, and in country: US are also privacy-revealing.
+___________________________________________
+(156) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Longitude: -73.871263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(157) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, in brand: Airport, and in country: US are also privacy-revealing.
+___________________________________________
+(158) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, in brand: Airport, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(159) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(160) with 100.0% probability, activities around Latitude: 40.773664, around Longitude: -73.871263, and in brand: Airport are also privacy-revealing.
+___________________________________________
+(161) with 100.0% probability, activities around Latitude: 40.773664, around Longitude: -73.871263, and in country: US are also privacy-revealing.
+___________________________________________
+(162) with 100.0% probability, activities around Latitude: 40.773664, around Longitude: -73.871263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(163) with 100.0% probability, activities around Latitude: 40.773664, in brand: Airport, and in country: US are also privacy-revealing.
+___________________________________________
+(164) with 100.0% probability, activities around Latitude: 40.773664, in brand: Airport, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(165) with 100.0% probability, activities around Latitude: 40.773664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(166) with 100.0% probability, activities around Longitude: -73.871263, in brand: Airport, and in country: US are also privacy-revealing.
+___________________________________________
+(167) with 100.0% probability, activities around Longitude: -73.871263, in brand: Airport, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(168) with 100.0% probability, activities around Longitude: -73.871263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(169) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, around Longitude: -73.871263, and in brand: Airport are also privacy-revealing.
+___________________________________________
+(170) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, around Longitude: -73.871263, and in country: US are also privacy-revealing.
+___________________________________________
+(171) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, around Longitude: -73.871263, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(172) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, in brand: Airport, and in country: US are also privacy-revealing.
+___________________________________________
+(173) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, in brand: Airport, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(174) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Latitude: 40.773664, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(175) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Longitude: -73.871263, in brand: Airport, and in country: US are also privacy-revealing.
+___________________________________________
+(176) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Longitude: -73.871263, in brand: Airport, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(177) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, around Longitude: -73.871263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(178) with 100.0% probability, activities in Hotel: 4ace6c89f964a52078d020e3, in brand: Airport, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(179) with 100.0% probability, activities around Latitude: 40.773664, around Longitude: -73.871263, in brand: Airport, and in country: US are also privacy-revealing.
+___________________________________________
+(180) with 100.0% probability, activities around Latitude: 40.773664, around Longitude: -73.871263, in brand: Airport, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(181) with 100.0% probability, activities around Latitude: 40.773664, around Longitude: -73.871263, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(182) with 100.0% probability, activities around Latitude: 40.773664, in brand: Airport, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
+___________________________________________
+(183) with 100.0% probability, activities around Longitude: -73.871263, in brand: Airport, in country: US, and within time: (20120404, 20120405) are also privacy-revealing.
