@@ -1,0 +1,103 @@
+______________________________________________________
+______________________________________________________
+Warm-up ... Start!
++++++++ MODE: DATA STREAM (updated) +++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: 83
+             Now number of data: 100
+             Now number of derived queries: 83
+Recall: 0.2404 Precision: 0.9759
+Warm-up .. Completed!
+______________________________________________________
+______________________________________________________
+______________________________________________________
++++++++ MODE: DATA STREAM (updated) +++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: 42
+             Now number of data: 200
+             Now number of derived queries: 125
+Recall: 0.365 Precision: 0.984
+______________________________________________________
+______________________________________________________
+______________________________________________________
+++++++++++++  MODE: DATA STREAM ++++++++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: 0
+             Now number of data: 300
+             Now number of derived queries: 125
+Recall: 0.365 Precision: 0.984
+______________________________________________________
+______________________________________________________
+______________________________________________________
++++++++ MODE: DATA STREAM (updated) +++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: 94
+             Now number of data: 400
+             Now number of derived queries: 219
+Recall: 0.638 Precision: 0.9817
+______________________________________________________
+______________________________________________________
+______________________________________________________
+++++++++++++  MODE: DATA STREAM ++++++++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: 0
+             Now number of data: 500
+             Now number of derived queries: 219
+Recall: 0.638 Precision: 0.9817
+______________________________________________________
+______________________________________________________
+______________________________________________________
+++++++++++++  MODE: DATA STREAM ++++++++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: 0
+             Now number of data: 600
+             Now number of derived queries: 219
+Recall: 0.638 Precision: 0.9817
+______________________________________________________
+______________________________________________________
+______________________________________________________
++++++++ MODE: DATA STREAM (updated) +++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: -2
+             Now number of data: 700
+             Now number of derived queries: 217
+Recall: 0.638 Precision: 0.9908
+______________________________________________________
+______________________________________________________
+______________________________________________________
+++++++++++++  MODE: DATA STREAM ++++++++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: 0
+             Now number of data: 800
+             Now number of derived queries: 217
+Recall: 0.638 Precision: 0.9908
+______________________________________________________
+______________________________________________________
+______________________________________________________
++++++++ MODE: DATA STREAM (updated) +++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: 78
+             Now number of data: 900
+             Now number of derived queries: 295
+Recall: 0.8754 Precision: 1.0
+______________________________________________________
+______________________________________________________
+______________________________________________________
++++++++ MODE: DATA STREAM (updated) +++++++
+++++++       New data incoming!!!      ++++++
+             New incoming data: 100
+             New derived queries: 42
+             Now number of data: 1000
+             Now number of derived queries: 337
+Recall: 1.0 Precision: 1.0
+______________________________________________________
+______________________________________________________
