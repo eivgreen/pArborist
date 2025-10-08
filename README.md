@@ -1,17 +1,17 @@
 # pArborist
-A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams.
+&emsp;A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams.
 
 ## Datasets and Folders
-(1) See the datasets labeled by us in **labeled_datasets** folder. 
+&emsp;(1) See the datasets labeled by us in **labeled_datasets** folder. 
 
-(2) Only the datasets labeled or produced by us are directly provided here as promised. The public datasets used for pArborist are partially cached in binary files to run pArborist, but not directly accessible here in order to clarify the credits of their original producers. Please find them in their original websites/research [1], [2], [3], [4]. 
+&emsp;(2) Only the datasets labeled or produced by us are directly provided here as promised. The public datasets used for pArborist are partially cached in binary files to run pArborist, but not directly accessible here in order to clarify the credits of their original producers. Please find them in their original websites/research [1], [2], [3], [4]. 
 
-(3) **outputs_back_up** contains the stored outputs for a quick review and provides a quick overview of the outputs. **outputs_expr(...).txt** and **outputs_expr(...).csv** are the outputs of experiments. **outputs(...).txt** and **outputs(...).csv** are the outputs of users' manual inputs.
+&emsp;(3) **outputs_back_up** contains the stored outputs for a quick review and provides a quick overview of the outputs. **outputs_expr(...).txt** and **outputs_expr(...).csv** are the outputs of experiments. **outputs(...).txt** and **outputs(...).csv** are the outputs of users' manual inputs.
 
 ## Run pArborist
-(1) pArborist is implemented in Python.
+&emsp;(1) pArborist is implemented in Python.
 
-(2) A **requirements.py** is attached. All used packages can be loaded via **pip**. No specific requirements for their versions.
+&emsp;(2) A **requirements.py** is attached. All used packages can be loaded via **pip**. No specific requirements for their versions.
 
 ### Mode 1: for Experiements:
 1. Execute **expr.py** via python. The default mode is **Data Stream Mode**. Run **Database Mode** by executing **expr.py** with **--mode=1**.
@@ -44,13 +44,13 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
    ```
 3. (Optional) Compare the results with the labeled data in **labeled_datasets** folder.
 
-**FYI**:
+&emsp;**FYI**:
    
-The **current_output/output_expr.txt** stores the results and a brief report in natural language.
+&emsp;The **current_output/output_expr.txt** stores the results and a brief report in natural language.
 
-The **current_output/output_expr_detailed.txt** stored the concrete derived queries in natural language.
+&emsp;The **current_output/output_expr_detailed.txt** stored the concrete derived queries in natural language.
 
-The **current_output/output_expr_csv.csv** stores the results in pandas.DataFrame format.
+&emsp;The **current_output/output_expr_csv.csv** stores the results in pandas.DataFrame format.
 
 ### Mode 2: for Users of pArborist:
 1. Use the default seeds randomly generated in **input_seeds.txt**. OR Replace its contents with your own seeds. One row each. The format of a seed must be:
@@ -62,13 +62,13 @@ The **current_output/output_expr_csv.csv** stores the results in pandas.DataFram
 2. Run **detect_p_r_queries.py**
 3. Check the results(natural language) in **current_output/output.txt** and results(pandas.DataFrame) in **current_output/output_csv.csv**. OR directly check the console. A detailed report can be seen in **current_output/output_detailed.txt**.
 
-**FYI**:
+&emsp;**FYI**:
 
-The **current_output/output.txt** stores the results and a brief report in natural language.
+&emsp;The **current_output/output.txt** stores the results and a brief report in natural language.
 
-The **current_output/output_detailed.txt** stored the concrete derived queries in natural language.
+&emsp;The **current_output/output_detailed.txt** stored the concrete derived queries in natural language.
 
-The **current_output/output_csv.csv** stores the results in pandas.DataFrame format for developers.
+&emsp;The **current_output/output_csv.csv** stores the results in pandas.DataFrame format for developers.
 
 ## Reference
 [1] Albert Kim and Adriana Escobedo-Land. 2015. OkCupid Data for Introductory
