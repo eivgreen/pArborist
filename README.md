@@ -13,7 +13,7 @@ A Seed for Privacy - semi-automatic privacy-revealing data detection in database
 
 (2) A **requirements.py** is attached. All used packages can be loaded via pip, no specific requirements for their versions.
 
-### - Mode 1 - for Experiements:
+### Mode 1: for Experiements:
 1. Execute **expr.py** via python. The default mode is **Data Stream Mode**. Run **Database Mode** by executing **expr.py** with **--mode=1**.
 2. Check the results(natural language) in **output_expr.txt** and results(pandas.DataFrame) in **output_expr_csv.csv** OR directly check the console.
    
@@ -45,7 +45,7 @@ The **output_expr_csv.csv** stores the results in pandas.DataFrame format.
 
 Our cache data follows the same distribution and schema of the original dataset, see [1], [2], [3], [4].
 
-### - Mode 2 - for Users of pArborist:
+### Mode 2: for Users of pArborist:
 1. Use the default seeds randomly generated in **input_seeds.txt**. OR Replace its contents with your own seeds. One row each. The format of a seed must be:
 
    <div align="center">
